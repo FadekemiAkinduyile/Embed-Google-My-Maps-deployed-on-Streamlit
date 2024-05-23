@@ -19,6 +19,8 @@ This repository contains a simple application that embeds a Google My Map and de
 ## Link to app
 You can access the app [here](https://embed-app-my-maps-deployed-on-app-hp3frldbdmz9vdacnpqpgj.streamlit.app/)
 
+![image](https://github.com/FadekemiAkinduyile/Embed-Google-My-Maps-deployed-on-Streamlit/assets/102438301/a76f6712-a944-47a3-b2e0-d97c92554e61)
+
 
 ## Project Structure
 - **app.py**: Main file containing the Streamlit application code.
